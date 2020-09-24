@@ -13,7 +13,7 @@
   - 2.下载源码：
   ```bash
   cd ~
-  git clone -b admin https://github.com/paradiseduo/subweb.git
+  git clone https://github.com/paradiseduo/subweb.git
   ```
   - 3.安装库： 
   ```bash
@@ -66,7 +66,7 @@ proxygroup= '@🔰 节点选择`select{groupname}[]DIRECT'\
   - 2.下载源码：
   ```bash
   cd ~
-  git clone -b admin https://github.com/paradiseduo/subweb.git
+  git clone https://github.com/paradiseduo/subweb.git
   ```
   - 3.客制化：
   ```bash 
